@@ -47,6 +47,11 @@ Looked at howardtheg8one's repository to get an idea of how to work through this
 Also needed to reference github's Writing Mathematical expressions for the layout of my writing
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
+I certify that I have listed all sources used to complete this exercise, including the use
+of any Large Language Models. All of the work is my own, except where stated
+otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is
+suspected, charges may be filed against me without prior notice.
+
 
 
 
